@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-02T11:07:45 IST" name="Surefire suite" finished-at="2023-07-02T11:08:20 IST" duration-ms="35067">
+    <groups>
+    </groups>
+    <test started-at="2023-07-02T11:07:45 IST" name="Surefire test" finished-at="2023-07-02T11:08:20 IST" duration-ms="35067">
+      <class name="test_Flipkart.Test1">
+        <test-method is-config="true" signature="initialConfig()[pri:0, instance:test_Flipkart.Test1@3bf7ca37]" started-at="2023-07-02T11:07:42 IST" name="initialConfig" finished-at="2023-07-02T11:07:45 IST" duration-ms="2455" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialConfig -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test_Flipkart.Test1@3bf7ca37]" started-at="2023-07-02T11:07:45 IST" name="setUp" finished-at="2023-07-02T11:07:45 IST" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:test_Flipkart.Test1@3bf7ca37]" started-at="2023-07-02T11:07:45 IST" name="setup" finished-at="2023-07-02T11:07:45 IST" duration-ms="6" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test_Flipkart.Test1.openFlipkart1() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="openFlipkart1()[pri:1, instance:test_Flipkart.Test1@3bf7ca37]" started-at="2023-07-02T11:07:45 IST" name="openFlipkart1" finished-at="2023-07-02T11:07:53 IST" duration-ms="8421" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openFlipkart1 -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:test_Flipkart.Test1@3bf7ca37]" started-at="2023-07-02T11:07:53 IST" name="setup" finished-at="2023-07-02T11:07:53 IST" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test_Flipkart.Test1.clearThePopUp()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="clearThePopUp()[pri:2, instance:test_Flipkart.Test1@3bf7ca37]" started-at="2023-07-02T11:07:53 IST" name="clearThePopUp" finished-at="2023-07-02T11:07:54 IST" duration-ms="501" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearThePopUp -->
+        <test-method signature="viewMobile()[pri:3, instance:test_Flipkart.Test1@3bf7ca37]" started-at="2023-07-02T11:07:54 IST" name="viewMobile" finished-at="2023-07-02T11:07:54 IST" duration-ms="500" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewMobile -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:test_Flipkart.Test1@3bf7ca37]" started-at="2023-07-02T11:07:54 IST" name="setup" finished-at="2023-07-02T11:07:54 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test_Flipkart.Test1.viewMobile() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:test_Flipkart.Test1@3bf7ca37]" started-at="2023-07-02T11:07:54 IST" name="setup" finished-at="2023-07-02T11:07:54 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test_Flipkart.Test1.shopNowFromRealme()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="shopNowFromRealme()[pri:4, instance:test_Flipkart.Test1@3bf7ca37]" started-at="2023-07-02T11:07:54 IST" name="shopNowFromRealme" finished-at="2023-07-02T11:07:55 IST" duration-ms="775" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shopNowFromRealme -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:test_Flipkart.Test1@3bf7ca37]" started-at="2023-07-02T11:07:55 IST" name="setup" finished-at="2023-07-02T11:07:55 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test_Flipkart.Test1.selectDevice() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="selectDevice()[pri:5, instance:test_Flipkart.Test1@3bf7ca37]" started-at="2023-07-02T11:07:55 IST" name="selectDevice" finished-at="2023-07-02T11:08:10 IST" duration-ms="15199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectDevice -->
+        <test-method signature="addToCart()[pri:6, instance:test_Flipkart.Test1@3bf7ca37]" started-at="2023-07-02T11:08:10 IST" name="addToCart" finished-at="2023-07-02T11:08:11 IST" duration-ms="362" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:test_Flipkart.Test1@3bf7ca37]" started-at="2023-07-02T11:08:10 IST" name="setup" finished-at="2023-07-02T11:08:10 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test_Flipkart.Test1.addToCart() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="placeOrder()[pri:7, instance:test_Flipkart.Test1@3bf7ca37]" started-at="2023-07-02T11:08:11 IST" name="placeOrder" finished-at="2023-07-02T11:08:19 IST" duration-ms="8522" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- placeOrder -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:test_Flipkart.Test1@3bf7ca37]" started-at="2023-07-02T11:08:11 IST" name="setup" finished-at="2023-07-02T11:08:11 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test_Flipkart.Test1.placeOrder() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="typeNumber()[pri:8, instance:test_Flipkart.Test1@3bf7ca37]" started-at="2023-07-02T11:08:19 IST" name="typeNumber" finished-at="2023-07-02T11:08:19 IST" duration-ms="264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- typeNumber -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:test_Flipkart.Test1@3bf7ca37]" started-at="2023-07-02T11:08:19 IST" name="setup" finished-at="2023-07-02T11:08:19 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test_Flipkart.Test1.typeNumber() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:test_Flipkart.Test1@3bf7ca37]" started-at="2023-07-02T11:08:19 IST" name="setup" finished-at="2023-07-02T11:08:19 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test_Flipkart.Test1.continueToRecieve() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="continueToRecieve()[pri:9, instance:test_Flipkart.Test1@3bf7ca37]" started-at="2023-07-02T11:08:19 IST" name="continueToRecieve" finished-at="2023-07-02T11:08:20 IST" duration-ms="256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- continueToRecieve -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:test_Flipkart.Test1@3bf7ca37]" started-at="2023-07-02T11:08:20 IST" name="closeDriver" finished-at="2023-07-02T11:08:20 IST" duration-ms="184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test_Flipkart.Test1@3bf7ca37]" started-at="2023-07-02T11:08:20 IST" name="tearDown" finished-at="2023-07-02T11:08:21 IST" duration-ms="974" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test_Flipkart.Test1 -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
